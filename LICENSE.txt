@@ -1,0 +1,9 @@
+If not specified otherwise, resources in that repository are under 
+Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
+
+See http://creativecommons.org/licenses/by-nc-sa/4.0/ for rights associated with that license. 
+
+Copyright belongs to François ARMAND 
+  https://github.com/fanf/
+  https://mastodon.social/@fanf42
+
