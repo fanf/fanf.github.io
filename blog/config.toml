@@ -1,0 +1,25 @@
+baseURL = 'https://fanf.github.io/'
+languageCode = 'en-us'
+title = ""
+
+theme = "m10c"
+
+[params]
+author = 'François ARMAND'
+description = """French, excuse my English / 
+                 Father^3 / FLOSS (contributors) are our digital common goods / 
+                 Scala since 2006 / floss since 2001 / FP enthousiast /
+                 @rudderio CTO"""
+avatar = "fanf42.jpg"
+
+[[params.social]]
+  icon = "github"
+  name = "My Github"
+  url = "https://github.com/fanf"
+
+[params.style]
+  darkestColor = "#313030"
+  darkColor = "#212121"
+  lightColor = "#f5e3e0"
+  lightestColor = "#5faeef"
+  primaryColor = "#5faeef"
