@@ -33,6 +33,7 @@ jobs:
     runs-on: ubuntu-latest
     env:
       HUGO_VERSION: 0.111.3
+      BASE: "blog"
     steps:
       - name: Install Hugo CLI
         run: |
@@ -59,11 +60,12 @@ jobs:
           hugo \
             --gc \
             --minify \
-            --baseURL "${{ steps.pages.outputs.base_url }}/"          
+            --baseURL "${{ steps.pages.outputs.base_url }}/"
+            --source ${BASE}
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v1
         with:
-          path: ./public
+          path: ${BASE}/public
 
   # Deployment job
   deploy:
