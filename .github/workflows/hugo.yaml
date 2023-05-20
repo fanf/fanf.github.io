@@ -65,7 +65,7 @@ jobs:
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v1
         with:
-          path: ${BASE}/public
+          path: ${{ BASE }}/public
 
   # Deployment job
   deploy:
