@@ -3,4 +3,11 @@ body {
     font-family: sans-serif;
     font-size: medium;
   }
-  
+
+strong {
+    color: $primary-color;
+}
+
+em {
+    color: $primary-color;
+}
