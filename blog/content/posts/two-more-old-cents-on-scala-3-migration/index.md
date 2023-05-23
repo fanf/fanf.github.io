@@ -4,7 +4,7 @@ date: 2023-05-20T22:55:57+02:00
 draft: false
 ---
 
-{{ .TableOfContents }}
+
 
 ## Once upon a time, Scala 2
 
