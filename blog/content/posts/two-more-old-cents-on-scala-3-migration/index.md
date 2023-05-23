@@ -2,14 +2,28 @@
 title: "Two More Old Cents on Scala 3 Migration"
 date: 2023-05-20T22:55:57+02:00
 draft: false
+tags:
+  - scala2
+  - scala3
+  - migration
 ---
 
+{{< summary >}}
 
+## Abstract
 
-## Once upon a time, Scala 2
+{{< figure src="wandering-banner.png" alt="A long journey from Scala 3" link="https://status451.com/2016/08/11/too-late-for-the-pebbles-to-vote-part-3/" target="_blank">}}
 
 > Ed. (and TL;DR, likely) I really tried to just share our (my, mainly) sentiment and understanding  of the situation about Scala 3 migration for *our own specific* case. I don't want that text to be some kind of rant, but more it to highlight **"Scala is a wonderful language, but the migration to Scala 3 does not work for us for these reasons. I hope it will, because I want Scala 3 to be a success story, and to share it"**. In case it get lost, get back here to read it again. Also, I hope I didn't over-generalized from our specific place (at least not too much). Dear reader, don't forget I don't have much more experience than my own to share. I still hope it may be useful. 
  
+----
+
+{{< tableOfContents >}}
+
+----
+
+## Once upon a time, Scala 2
+
  
 There is a lot of chat recently around Scala 3 migration. We are directly impacted by that topic, and I wanted to share our experience on the subject, to be used as one more anecdotal data point.
 
