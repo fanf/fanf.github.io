@@ -91,19 +91,39 @@ This has two main costs:
 
 With our team and the other things we have to do (like developing our product), paying that cost means that we need at least one more dev. Which won't be coding on feature for the product, but just on migration (so for something without any business revenue to compensate), for weeks to months. So we aren't exactly eager to do it for now.
 
+
+---
+[edit] I was asked to give concrete examples. A silly one, which add gratuitous friction and so a good example of the accumulated cost of all the little things that need to be paid for is the `enum` case. In our code base, we have a lot of enum-like pattern: 
+
+```
+sealed trait Thing
+object Thing {
+  case object That extends Thing
+  ...
+  
+  def values = ca.mrvisser.sealerate.values[Thing]
+}
+```
+
+`sealarate` is a macro that doesn't exist in Scala 3 (obviously). This is naturally ported to an `enum` in Scala 3. And so we have a friction due to source breakage that is totally gratuitous: enum would be backported in Scala 2.13/14, we wouldn't even have to think about it and would gladly replace all of our `sealed` traits by `enum` (which is a nice enhancement, we are happy to migrate things for that kind of changes) AND enjoy more source compatibility between Scala 2 and Scala 3
+
+
 ### 2/ Overhead of maintenance
 
 *A major migration is a complex thing*, and in our case it's worse because it's absolutely *not a tipping point that we pass and then forget*. I'm almost sure it's the same for most complex system and companies having lots of subsystems, but for us it's caricatural and so it's very easy to grasp: we have 2 years of maintenance on our on premise software, so **we will have to maintain a version of Scala 2 code base along one of Scala 3**, whatever the scenario for the migration. 
 
-And to make things a bit more funny, we also always correct bug in the oldest maintained branch and then upmerge patches. So our dev often switch ten times a day between these branches and the corresponding code. 
+And to make things a bit more funny, we also always correct bug in the oldest maintained branch and then up-merge patches. So our dev often switch ten times a day between these branches and the corresponding code. 
 
 As of today, we don't see how achieving that would be possible without important difference in the code source and dependencies, leading to much more complexity in up merge, environment switch, etc. 
 
-And even if we find ways, with directories for Scala 2 and Scala 3, macro workraround, etc, it means that our build and maintenance complexity budget will be skyrocketing. 
+And even if we find ways, with directories for Scala 2 and Scala 3, macro workaround, etc, it means that our build and maintenance complexity budget will be skyrocketing. 
 
 So again, more people are needed to compensate those new costs.
 
 I easily imagine that open source maintainer will quickly choose to abandon Scala 2 for these reasons. Which add some more weight in the risk side of the balance. 
+
+---
+[edit] I was pointed out that other successfully migrated to Scala 3, which is extremely nice to hear. I believe that the overhead of maintenance of several branches for years add a huge weight against source compatibility breakage and the incurring complexity & maintenance budget for a small team. In that regard, the K2 solution (see edit in next paragraph) would have been much better for us. 
 
 ### 3/ Opportunity cost and gain balance
 
@@ -118,6 +138,8 @@ But as a disrupting evolution?
 But with that one, *I'm not sure what I earn*. Things like `enum` or `given` were already possible, like I think everything else. OK, `macro` are finally principled and good, with the hope for new zero-cost abstraction - with more migration cost! OK, before everything was more clumsy, less nice. But for us, it doesn't look like it sustains its own disruption weight.
 
 Oh, of course the migration earns the fact that we will be on a supported (by the ecosystem) version of Scala. And it's the first time I'm not sure this is enough. 
+
+[edit] Actually, having exactly 0 new features for a big migration IS a good way to do it IF it's used to make it totally transparent for users. Alexelcu pointed out that [it's what Kotlin did for K2, their new compiler](https://www.reddit.com/r/scala/comments/13q0uly/migration_to_scala_3_what_does_not_work_yet_for/jle7j2h/), which allows to split apart the risk for the tooling/compiler stability from the ecosystem risk of migrating. 
 
 #### Costs
 
