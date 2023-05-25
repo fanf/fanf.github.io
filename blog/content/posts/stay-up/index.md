@@ -4,10 +4,6 @@ date: 2019-01-14T00:00:00Z
 draft: false
 ---
 
-
-
-## Stay Up 
-
 ### Journey of a Free Software Company 
 
 ***One decade in search for a sustainable model***

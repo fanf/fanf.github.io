@@ -1,6 +1,6 @@
 ---
 title: "Resources on Bad Actors in Human Social Constructions"
-date: 2018-12-06T00:00:00+02:00
+date: 2018-12-06T00:00:00Z
 draft: false
 ---
 
