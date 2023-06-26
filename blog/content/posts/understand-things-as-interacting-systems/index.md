@@ -20,7 +20,7 @@ A system is what is does.
 {{< figure
 src="https://cdn-images-1.medium.com/max/800/0*l2SctsEb3IUJeGVb"
 title="Dr Katie Bouman interacting with a black hole, a team, and the world"
-}}
+>}}
 
 > TL;DR: jump to paragraph "Thinking in systems: why it helps" for why
 > it matters, and then "Systems: tentative definition" (last paragraph)
@@ -31,7 +31,6 @@ applications as a set of interacting systems. I thought it was the
 "architecture 101" of application development, but after some more
 inquiring, I discovered that that view of the world was almost unknown,
 and not only among developpers.
-
 This came as a surprise to me because it is one of the most useful and
 powerful tools I have to systematically understand a topic, what its
 parts are, and what the contracts between them are. In the context of
