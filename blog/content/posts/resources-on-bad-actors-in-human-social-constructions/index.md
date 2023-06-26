@@ -105,3 +105,25 @@ This short article is a return on experience on an avoided catastrophe along wit
 
 {{< figure src="confused.png" title="Noticing You're Confused" link="https://arr.am/2020/01/23/noticingconfusion/" target="_blank">}}
 
+
+--- 
+
+### No more rock stars: how to stop abuse in tech communities
+
+This text from 2016 follows the violence and sexual assault affairs revelation around the then famous [Jacob Applebaum](https://en.wikipedia.org/wiki/Jacob_Appelbaum#Allegations_of_sexual_misconduct) security "rock star". 
+
+It is important to see how Applebaum behavior follows the Psychopath Code script and the number of "impact craters" were
+discovered once facts started to get out. But more importantly, the text presents a set of simple rules (hard to implement and sustain), that can be linked to [Elinor Ostrom rules on sustainable communities](https://blog.fanf.eu/posts/resources-on-open-everything-and-sustainable-model/#elinor-ostrom-nobel-prize-2009-talk-beyond-markets-and-states-polycentric-governance-of-complex-economicsystems) - but target on people safety in communities: 
+
+* Have explicit rules for conduct and enforce them for everyone
+* Start with the assumption that harassment reports are true and investigate them thoroughly
+* Make it easy for victims to find and coordinate with each other
+* Watch for smaller signs of boundary pushing and react strongly
+* Call people out for monopolizing attention and credit
+* Insist on building a “deep bench” of talent at every level of your organization
+* Flatten the organizational hierarchy as much as possible
+* Build in checks for “failing up”
+* Enforce strict policies around sexual or romantic relationships within power structures
+* Avoid organizations becoming too central to people’s lives
+* Distribute the “keys to the kingdom”
+* Don’t create environments that make boundary violations more likely
