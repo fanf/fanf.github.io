@@ -10,6 +10,8 @@ Resources on bad actors in human social constructions
 
 {{< figure src="psychopath-code-hintjens-cover.jpg" title="The Psychopath Code by Pieter Hintjens" >}}
 
+{{< tableOfContents >}}
+
 ## Why?
 
 As a Free & Open Source developer and a citizen who really cares for our common goods (digital and physical), I'm quite often exposed to the question: how do we manage bad (read: exploitative, parasitic, sociopathic) actors who threaten our social construction, be it our pet FLOSS project gaining some traction or the next big revolutionary politic movement for a better world.
