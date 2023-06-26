@@ -14,6 +14,9 @@ its properties and gain agency. So what are systems?
 A system is what is does.
 }}
 
+{{< tableOfContents >}}
+
+
 ### Understand Things As Interacting Systems 
 
 {{< figure
