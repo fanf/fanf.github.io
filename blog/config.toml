@@ -13,6 +13,11 @@ description = """French, excuse my English /
 avatar = "fanf42.jpg"
 
 [[params.social]]
+  icon = "website"
+  name = "rudder.io"
+  url = "https://rudder.io"
+
+[[params.social]]
   icon = "github"
   name = "My Github"
   url = "https://github.com/fanf"
