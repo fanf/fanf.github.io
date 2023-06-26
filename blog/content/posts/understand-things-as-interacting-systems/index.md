@@ -6,23 +6,21 @@ draft: false
 
 {{< summary >}}
 
-
-{{ 
 Understanding a complicated topic as interacting systems helps you learn
 its properties and gain agency. So what are systems?
 
 A system is what is does.
-}}
+
 
 {{< tableOfContents >}}
 
 
-### Understand Things As Interacting Systems 
+## Understand Things As Interacting Systems 
 
 {{< figure
 src="https://cdn-images-1.medium.com/max/800/0*l2SctsEb3IUJeGVb"
 title="Dr Katie Bouman interacting with a black hole, a team, and the world"
->}}
+}}
 
 > TL;DR: jump to paragraph "Thinking in systems: why it helps" for why
 > it matters, and then "Systems: tentative definition" (last paragraph)
@@ -47,7 +45,7 @@ without impacting third parties out of clear chosen changes.
 This tool is so useful that I conceptualize most of my
 macro-interactions with the world as systems interacting together.
 
-### Seeing the world as systems is a useful tool 
+## Seeing the world as systems is a useful tool 
 
 People believe [systems are
 complicated](https://en.wikipedia.org/wiki/Systems_theory){.markup--anchor
@@ -67,7 +65,7 @@ communicate with them by understanding how they see the world.
 
 So systems help me **understand how thingies interact with each other**.
 
-#### Thinking in systems: why it helps (me, at least) 
+### Thinking in systems: why it helps (me, at least) 
 
 Concretely, thinking in interacting systems helps me to:
 
@@ -107,13 +105,13 @@ a system is.
 
 ------------------------------------------------------------------------
 
-### System examples 
+## System examples 
 
 Systems can be more or less formalized, but a lot of formalization is
 not necessary to make them a useful learning tool. Let's take some
 examples of systems to get a feeling about what they are.
 
-#### Your band of friend at school 
+### Your band of friend at school 
 
 You went to school? That's a nice set of interacting systems! A loosely
 defined one:
@@ -148,7 +146,7 @@ helped other people interact efficiently with your group, using the
 correct channel to get things done, and understand your behaviour in
 school as a coherent entity.
 
-#### A shop 
+### A shop 
 
 Of course, any company is a system ---and hopefully a system interacting
 with other ones. This time, we can even talk about a semi-formalized
@@ -188,7 +186,7 @@ tooling needed in each case, the different timelines. It helps gain
 agency and define reaction to identified use cases, so that they are
 better handled the next time.
 
-#### Mathematical proof & code 
+### Mathematical proof & code 
 
 Finally, system description can be *extremely* formalized, to the point
 where we are able to prove interesting properties about the world they
@@ -213,19 +211,19 @@ error modes to correctly react in each case.
 
 ------------------------------------------------------------------------
 
-### So what are systems ? 
+## So what are systems ? 
 
 In each of the previous example, we found common properties that make
 system useful tools. Let's walk through each of them.
 
-#### Systems are useful learning tools 
+### Systems are useful learning tools 
 
 We already saw that at the begining: building the model is what makes
 you understand it, question your assumptions, share your thoughts. Your
 models will be false --- they are models! You learn with iterations,
 making them less false is possible.
 
-#### Systems are entities... 
+### Systems are entities... 
 
 A system is a model about entities, so you need at least **things that
 last** sufficiently long that you want to talk about them. It can be
@@ -338,7 +336,7 @@ words to talk to parents. Alice' Band has its private jokes and
 references which differ from Gus Band, but both agreed on a common,
 colorful language when they play together. And so on.
 
-#### ... interacting with other systems 
+### ... interacting with other systems 
 
 These explicit boundaries also make apparent how all systems interact
 with each other.
@@ -366,7 +364,7 @@ Interfaces per se are not useful. They take flesh once you know how to
 use them to talk to the system, and what you get in return. We, experts,
 call that chating. Sorry, a **protocol**.
 
-### Promises and error modes 
+## Promises and error modes 
 
 Once you have an identified bounded system that can be contacted at
 interface points thanks to protocols... You will like to actually
@@ -409,7 +407,7 @@ src="https://cdn-images-1.medium.com/max/800/0*wJlVP2uFsQ07oBGU"
 title="Systems, protocol and interfaces don’t need to formally defined to share understanding of the world"
 >}}
 
-#### Systems are fractal 
+### Systems are fractal 
 
 Systems can be composed of subsystems. Or be part of macro-systems. You
 adapt the granularity to the problem at hand and zoom as needed.
@@ -425,7 +423,7 @@ src="https://cdn-images-1.medium.com/max/800/1*uA2QLnmvibzzDEBfKqIsvA.png"
 title="Zoom in and out of system to study different levels of interaction."
 >}}
 
-### Systems are rooted in a world 
+## Systems are rooted in a world 
 
 One last thing: interacting systems are rooted in a world. So you have a
 virtual horizon to your ecosystem beside which nothing useful happens
@@ -493,7 +491,7 @@ integrate it in our humanity models.
 
 ------------------------------------------------------------------------
 
-### Systems: tentative definition 
+## Systems: tentative definition 
 
 {{< figure
 src="https://cdn-images-1.medium.com/max/800/0*BTkoUbt7fZaayV3l"
@@ -573,7 +571,7 @@ Thus, systems have 3 modes:
 -   [Expected errors (and corresponding reactions).]
 -   [Failure modes (and undefined states).]
 
-### That's all! 
+## That's all! 
 
 So, next time you are faced with a situation which seems complicated,
 with lots of moving parts, try to draw boundaries and ask yourself how
