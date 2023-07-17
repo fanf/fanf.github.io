@@ -25,7 +25,7 @@ avatar = "fanf42.jpg"
 [[params.social]]
   icon = "mastodon"
   name = "Chat on mastodon"
-  url = "https://mastodon.social/@fanf42"
+  url = "https://social.treehouse.systems/@fanf42"
 
 [[params.social]]
   icon = "twitter"
