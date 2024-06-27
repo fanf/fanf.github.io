@@ -110,7 +110,7 @@ This short article is a return on experience on an avoided catastrophe along wit
 
 --- 
 
-### No more rock stars: how to stop abuse in tech communities
+## No more rock stars: how to stop abuse in tech communities
 
 This text from 2016 follows the violence and sexual assault affairs revelation around the then famous [Jacob Applebaum](https://en.wikipedia.org/wiki/Jacob_Appelbaum#Allegations_of_sexual_misconduct) security "rock star". 
 
@@ -129,3 +129,17 @@ discovered once facts started to get out. But more importantly, the text present
 * Avoid organizations becoming too central to people’s lives
 * Distribute the “keys to the kingdom”
 * Don’t create environments that make boundary violations more likely
+
+
+--- 
+
+## How to get promoted
+
+This text by Slava Akhmechet explain in a quick format how opportunists (a gentle way to say "parasits") mask and dance around control tool in fast growing companies to just extract wealth and status, the two only things that matters for them. 
+
+https://spakhm.substack.com/p/how-to-get-promoted
+
+I'm quoting the conclusion here, because it's a nice wrapped up of what bad actors do: 
+
+> In summary, an opportunist's career advice is: ignore OKRs, switch projects well before the consequences of your decisions can be measured, act happy and easy-going, package bad news as appeals for slow systemic adjustments, don't make anyone look bad, perform rituals with enthusiasm, grow headcount faster than baseline, let work invent itself, follow management fashions, avoid acute failures, believe this sincerely
+
