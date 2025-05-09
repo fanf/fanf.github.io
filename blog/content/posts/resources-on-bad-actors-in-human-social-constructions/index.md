@@ -143,3 +143,21 @@ I'm quoting the conclusion here, because it's a nice wrapped up of what bad acto
 
 > In summary, an opportunist's career advice is: ignore OKRs, switch projects well before the consequences of your decisions can be measured, act happy and easy-going, package bad news as appeals for slow systemic adjustments, don't make anyone look bad, perform rituals with enthusiasm, grow headcount faster than baseline, let work invent itself, follow management fashions, avoid acute failures, believe this sincerely
 
+--- 
+
+## Bad People: : Irredeemable Individuals & Structural Incentives
+
+[This text by William Gillis](https://c4ss.org/content/53289) is rooted in anarchism philosophy. It explains the facts that some people, and not a few, like to live in command and control pyramidal structures. That not everyone is altruistic. That there is bad people, 
+
+    "those for whom other people are not an extension of their own existence as sites of agency, but objects to be crushed or used."
+
+So realization #1, again and again proved in history, old and current: 
+
+    "A core anarchist realization is that we cannot guard against bad people by creating institutions of power because the same bad people will inevitably seize and wield those institutions. "
+
+I won't quote it all, but then it goes to police and "simplistic order" structures, how they attract bad people and defend pyramidal hierarchies - often with bad people on top. It describes the fact that these bad people see decentralisation of communications and large scale coordination and altruistic weapons like boycots (where you accept to lose personnaly for a better future for the community) as existential risks to them.
+
+It also explains how the bad people are themselves very bad at organic coordination (too much selfishness) and rely on pyramidal power structures to compensate. And thus, they always drift towards the state and its institutions. 
+
+And that's half the article. It is really very good.
+
