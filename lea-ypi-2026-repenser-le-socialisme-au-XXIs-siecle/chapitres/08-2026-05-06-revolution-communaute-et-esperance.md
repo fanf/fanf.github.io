@@ -1,4 +1,4 @@
-# RÃ©volution, communautÃ© et espÃ©rance
+# Révolution, communauté et espérance
 
 *Lea Ypi — Collège de France, 6 mai 2026*
 

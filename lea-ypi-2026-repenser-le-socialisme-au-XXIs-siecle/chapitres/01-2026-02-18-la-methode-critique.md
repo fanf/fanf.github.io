@@ -1,6 +1,6 @@
-# La mÃ©thode critique
+# La méthode critique
 
-*Lea Ypi — Collège de France, 18 fÃ©vrier 2026*
+*Lea Ypi — Collège de France, 18 février 2026*
 
 ## Sommaire
 

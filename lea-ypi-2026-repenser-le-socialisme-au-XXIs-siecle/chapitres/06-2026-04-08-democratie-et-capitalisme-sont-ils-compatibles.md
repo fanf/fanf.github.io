@@ -1,4 +1,4 @@
-# DÃÂ©mocratie et capitalisme : sont-ils compatibles ?
+# Démocratie et capitalisme : sont-ils compatibles ?
 
 *Lea Ypi — Collège de France, 8 avril 2026*
 

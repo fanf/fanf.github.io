@@ -28,7 +28,7 @@ Les vidéos sont disponibles ici: https://www.youtube.com/watch?v=7dem6Mtj38w&li
 
 Le dossier contient deux répertoire: 
 - transcript: les transcripts direct, organisés en segments de temps. 
-- chapitre: les mêmes textes, mais avec l'ajout (de ma part) de chapitre. 
+- chapitres: les mêmes textes, mais avec l'ajout (de ma part) de chapitre. 
 
 ## Méthode d'extraction - warning: utilisation d'IA
 
@@ -42,7 +42,7 @@ Ce sont les transcripts direct, organisés en segments de temps en fonction des 
 
 L'idée est d'être au plus près des cours, avec un simple nettoyage (répétition, bafouilli, etc) afin d'être adapté à la lecture. La segmentation est assez buggé, plusieurs cours on des segmets de plusieurs (dizaines de) milliers de mots.
 
-## Chapitre
+## Chapitres
 
 Les mêmes cours, mais segmentés en chapitres, sans réorganisation du texte. C'est uniquement l'ajout de segments structurel. Néanmoins, on s'éloigne du cours original tel que donné, cette segmentation et les titres NE SONT PAS DE Léa Ypi. Donc à utiliser avec un bon regard critique.
 

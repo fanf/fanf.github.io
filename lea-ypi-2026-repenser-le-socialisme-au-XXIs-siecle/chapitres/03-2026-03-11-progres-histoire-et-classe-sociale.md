@@ -1,4 +1,4 @@
-# ProgrÃ¨s, histoire et classe sociale
+# Progrès, histoire et classe sociale
 
 *Lea Ypi — Collège de France, 11 mars 2026*
 

@@ -1,4 +1,4 @@
-# Le droit, l'ÃÂtat et l'ÃÂ©conomie
+# Le droit, l'État et l'économie
 
 *Lea Ypi — Collège de France, 1er avril 2026*
 

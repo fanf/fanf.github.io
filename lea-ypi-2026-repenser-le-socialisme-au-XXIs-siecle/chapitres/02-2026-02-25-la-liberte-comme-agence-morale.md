@@ -1,6 +1,6 @@
-# La libertÃ© comme agence morale
+# La liberté comme agence morale
 
-*Lea Ypi — Collège de France, 25 fÃ©vrier 2026*
+*Lea Ypi — Collège de France, 25 février 2026*
 
 ## Sommaire
 

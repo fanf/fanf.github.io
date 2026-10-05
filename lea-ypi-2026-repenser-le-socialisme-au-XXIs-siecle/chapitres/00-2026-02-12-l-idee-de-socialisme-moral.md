@@ -1,6 +1,6 @@
-# L'idÃ©e de socialisme moral â leÃ§on inaugurale
+# L'idée de socialisme moral — leçon inaugurale
 
-*Lea Ypi — Collège de France, 12 fÃ©vrier 2026*
+*Lea Ypi — Collège de France, 12 février 2026*
 
 ## Sommaire
 

@@ -1,4 +1,4 @@
-# Comment le capitalisme menace la libertÃ©
+# Comment le capitalisme menace la liberté
 
 *Lea Ypi — Collège de France, 18 mars 2026*
 
